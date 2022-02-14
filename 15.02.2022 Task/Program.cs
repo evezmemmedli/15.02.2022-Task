@@ -11,7 +11,6 @@ namespace _15._02._2022_Task
             int ballarinCemi = 0;
             int edediOrta = 0;
 
-            string ad = "Ruslan";
             ballarinCemi = SumOfTotalPoints(arr, ref telebelerinSayi);
             Console.WriteLine(telebelerinSayi);
             Console.WriteLine(ballarinCemi);
